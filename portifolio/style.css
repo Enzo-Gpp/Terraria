@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-   <style>
+
     @import url('https://fonts.googleapis.com/css2?family=Pinyon+Script&display=swap');
     * {
       padding: 0;
@@ -31,18 +29,3 @@
         font-size: 30px;
         transition: font-size 400ms;
     }
-   </style>
-
-
-<head>
-    <title>Ranked dos pro</title>
-</head>
-<body>
-    <header>
-       <div class="links">
-        <a href="https://celke.com.br/artigo/tabela-de-cores-html-nome-hexadecimal-rgb">Jojolands</a>
-
-       </div>
-    </header>
-</body>
-</html>
