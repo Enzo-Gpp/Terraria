@@ -29,3 +29,11 @@
         font-size: 30px;
         transition: font-size 400ms;
     }
+    #box {
+        text-align: left;
+        padding: 32px;
+    }
+    #box img {
+        border-radius: 70%;
+        border: 5px solid;
+    }
